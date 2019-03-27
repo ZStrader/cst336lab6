@@ -1,0 +1,45 @@
+[27-Mar-2019 18:34:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%apple%'' at line 1' in /home/ubuntu/workspace/labs/6/api/getSearchResults.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/labs/6/api/getSearchResults.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/6/api/getSearchResults.php on line 16
+[27-Mar-2019 18:34:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%apple%'' at line 1' in /home/ubuntu/workspace/labs/6/api/getSearchResults.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/labs/6/api/getSearchResults.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/6/api/getSearchResults.php on line 16
+[27-Mar-2019 18:35:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%apple%'' at line 1' in /home/ubuntu/workspace/labs/6/api/getSearchResults.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/labs/6/api/getSearchResults.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/6/api/getSearchResults.php on line 16
+[27-Mar-2019 18:35:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%apple%'' at line 1' in /home/ubuntu/workspace/labs/6/api/getSearchResults.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/labs/6/api/getSearchResults.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/6/api/getSearchResults.php on line 16
+[27-Mar-2019 18:35:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%apple%'' at line 1' in /home/ubuntu/workspace/labs/6/api/getSearchResults.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/labs/6/api/getSearchResults.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/6/api/getSearchResults.php on line 16
+[27-Mar-2019 18:35:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%apple%'' at line 1' in /home/ubuntu/workspace/labs/6/api/getSearchResults.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/labs/6/api/getSearchResults.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/6/api/getSearchResults.php on line 16
+[27-Mar-2019 18:36:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%apple%'' at line 1' in /home/ubuntu/workspace/labs/6/api/getSearchResults.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/labs/6/api/getSearchResults.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/6/api/getSearchResults.php on line 16
+[27-Mar-2019 18:36:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%apple%'' at line 1' in /home/ubuntu/workspace/labs/6/api/getSearchResults.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/labs/6/api/getSearchResults.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/6/api/getSearchResults.php on line 16
+[27-Mar-2019 18:49:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%apple%'' at line 1' in /home/ubuntu/workspace/labs/6/api/getSearchResults.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/labs/6/api/getSearchResults.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/6/api/getSearchResults.php on line 16
